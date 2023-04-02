@@ -1,0 +1,22 @@
+.headline {
+    background-color: white;
+    color:brown;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 800;
+}
+.link1 {
+    background-color: red;
+    color: black;
+    font-size: 24px;
+}
+.link2 {
+    background-color: orangered;
+    color: black;
+    font-size: 24px;
+}
+.link3 {
+    background-color: yellow;
+    color: black;
+    font-size: 24px;
+}
