@@ -1,0 +1,15 @@
+.back-button {
+    background-color: green;
+    color: black;
+    font-size: 24px;
+}
+.lamb {
+    height: 600px;
+    width: 600px;
+}
+.headline {
+    background-color: white;
+    color: black;
+    font-size: 36px;
+    text-align: center;
+}
